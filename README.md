@@ -5,3 +5,6 @@
 
 ## Python
 ### [f-string](https://github.com/topsailor102/til/blob/master/python/f'%7Bstring%7D%20helps%20us%20understand%20String%20intuitively'.md)
+
+## Command
+### [sqlite db is locked](https://github.com/topsailor102/til/blob/master/command/sqlite_db_is_locked.md)
