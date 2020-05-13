@@ -8,4 +8,5 @@
 
 ## Command
 ### [sqlite db is locked](https://github.com/topsailor102/til/blob/master/command/sqlite_db_is_locked.md)
+### [pre-commit](https://github.com/topsailor102/til/blob/master/command/use_git_hooks.md)
 ### [replace word with changing line](https://github.com/topsailor102/til/blob/master/command/replace_word_with_changing_line.md)
