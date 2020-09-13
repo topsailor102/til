@@ -6,6 +6,7 @@
 ## Python
 ### [f-string](https://github.com/topsailor102/til/blob/master/python/f'%7Bstring%7D%20helps%20us%20understand%20String%20intuitively'.md)
 ### [requests verify option](https://github.com/topsailor102/til/blob/master/python/REST%20API%20bad%20handshake%20error.md)
+### [Set Django Admin password](https://github.com/topsailor102/til/blob/master/python/[Django]%20change%20password.md)
 
 ## Command
 ### [sqlite db is locked](https://github.com/topsailor102/til/blob/master/command/sqlite_db_is_locked.md)
